@@ -8,11 +8,11 @@ shared_scripts {
 }
 
 client_scripts {
-    'cl_poop.lua'
+    'client/cl_poop.lua'
 }
 
 server_scripts {
-    'sv_poop.lua'
+    'server/sv_poop.lua'
 }
 
 lua54 'yes'

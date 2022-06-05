@@ -1,8 +1,3 @@
-IMPORTANT READ!
-
-For now add the client sided files to client and server sided files to server of qb-smallresources!
-
-
 Gift From Evil <3
 
 EVIL#8263

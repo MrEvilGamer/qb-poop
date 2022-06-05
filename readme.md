@@ -8,7 +8,7 @@ https://discord.gg/MEDzUG7cAS
 For QBCore Community <3
 
 QBCore DC - 
-discord.gg/qbcore
+https://discord.gg/qbcore
 
 Poop Script,
 

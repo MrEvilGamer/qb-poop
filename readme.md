@@ -14,7 +14,7 @@ Poop Script,
 
 You can use it When the Things are leading to heated situation!
 
-Add poop.ogg to interact-sound folder - 
+Add fart.ogg to interact-sound folder - 
 
 interact-sound\client\html\sounds
 

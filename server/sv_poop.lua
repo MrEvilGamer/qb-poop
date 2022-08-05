@@ -1,6 +1,6 @@
-QBCore =  exports['qb-core']:GetCoreObject()
+QBCore =  exports[Config.FrameworkFolderName]:GetCoreObject()
 
-QBCore.Commands.Add("poop", "Cant make me poop?", {{name = "id", help = "Player ID"}}, false, function(source, args)
+QBCore.Commands.Add(Config.PoopCommand, Config.CommandDescription, {{name = "id", help = "Player ID"}}, false, function(source, args)
 	local src = source
     local Player = QBCore.Functions.GetPlayer(tonumber(args[1]))
 	if args[1] then

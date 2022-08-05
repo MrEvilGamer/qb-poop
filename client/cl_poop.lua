@@ -1,4 +1,4 @@
-QBCore =  exports['qb-core']:GetCoreObject()
+QBCore =  exports[Config.FrameworkFolderName]:GetCoreObject()
 
 RegisterNetEvent('just-poop-it', function()
     Wait(500)
